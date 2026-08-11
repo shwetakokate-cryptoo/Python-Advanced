@@ -45,3 +45,22 @@ Generators produce values one at a time using the `yield` keyword instead of sto
 - Lazy Evaluation
 - Iteration
 - Memory Optimization
+- ---
+## 3. Iterators
+
+A custom implementation of Python's iterator protocol using `__iter__()` and `__next__()`.
+
+### Features
+
+- Custom Iterator
+- Sequential Data Access
+- Iterator Protocol
+- Controlled Iteration
+
+### Concepts Covered
+
+- Iterators
+- `__iter__()`
+- `__next__()`
+- `StopIteration`
+- Iterator Protocol
