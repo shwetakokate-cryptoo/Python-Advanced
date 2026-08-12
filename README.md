@@ -58,6 +58,25 @@ A custom implementation of Python's iterator protocol using `__iter__()` and `__
 - Controlled Iteration
 
 ### Concepts Covered
+---
+## 4. Lambda, Map, Filter & Reduce
+
+Demonstrates functional programming concepts in Python for concise data transformation and processing.
+
+### Features
+
+- Lambda Functions
+- Data Transformation with `map()`
+- Data Filtering with `filter()`
+- Aggregation with `reduce()`
+
+### Concepts Covered
+
+- Anonymous Functions
+- Functional Programming
+- Higher-Order Functions
+- Data Transformation
+- Collection Processing
 
 - Iterators
 - `__iter__()`
